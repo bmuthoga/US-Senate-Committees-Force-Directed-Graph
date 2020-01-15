@@ -19,4 +19,4 @@ This project can also be found here on [CodeSandbox](https://codesandbox.io/s/us
 
 Below is a preview of how it looks:
 
-<img src="https://i.ibb.co/pKgQVNk/d3-us-senate-committees-force-directed-graph.gif" alt="graph-preview" width="300" height="200" />
+<img src="https://i.ibb.co/68pFRx8/d3-us-senate-committees-force-directed-graph.gif" alt="graph-preview" width="300" height="200" />
